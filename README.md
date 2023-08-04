@@ -1,8 +1,17 @@
-# Cuaderno de Radioafición.
+# Cuaderno de Radioafición
 
-Proyecto de gestor de contactos en radioescucha.
-Permite registrar frecuencias con información de subtonos, ubicacion, fecha y hora, así como visualizar los registros existentes.
-Además exporta en DOCX con tablas.
+Este proyecto te permite gestionar y registrar tus contactos en radioescucha de manera eficiente. Puedes ingresar detalles como subtonos, ubicación, fecha y hora de los contactos, y luego visualizarlos ordenadamente en la consola. Además, tienes la opción de exportar tus registros a archivos DOCX con tablas organizadas.
 
-Utiliza como almacenaje de datos el archivo data.txt (que crea al ejecutarse por primera vez).
-Lo he hecho a medida para mis necesidades, pero creo que pueden ser comunes a mucha gente.
+Características:
+
+    Registro de frecuencias con detalles completos.
+    Visualización clara y ordenada en la consola.
+    Exportación sencilla a archivos DOCX.
+    Gestión de subtonos y otros detalles personalizados.
+
+Requisitos:
+
+    Python 3.x
+    Librería docx (instalable con pip install python-docx)
+
+Si encuentras errores o tienes sugerencias, ¡contribuye! Tu participación es bienvenida.
