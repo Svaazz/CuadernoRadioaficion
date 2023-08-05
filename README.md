@@ -22,13 +22,11 @@ Este es un proyecto de un Cuaderno de Radioafición con una interfaz gráfica qu
 4. Ejecuta el programa con el comando `python cuaderno_radioaficion.py`.
 
 ## Capturas de Pantalla
-
+![Vista general](https://ibb.co/LJy6rqp)
+![Documento exportado en Word](https://ibb.co/7SYLyK1)
 
 
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si encuentras algún error o tienes ideas para mejorar este cuaderno de radioafición, siéntete libre de abrir un problema o enviar una solicitud de extracción.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
