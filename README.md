@@ -22,9 +22,8 @@ Este es un proyecto de un Cuaderno de Radioafición con una interfaz gráfica qu
 4. Ejecuta el programa con el comando `python cuaderno_radioaficion.py`.
 
 ## Capturas de Pantalla
-![Vista general](https://ibb.co/LJy6rqp)
-![Documento exportado en Word](https://ibb.co/7SYLyK1)
-
+![Vista general](https://i.ibb.co/JyT2qbk/foto1.png)
+![Documento exportado en Word](https://i.ibb.co/VLj5BTq/foto2.png)
 
 ## Contribuciones
 
