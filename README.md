@@ -23,7 +23,7 @@ Este es un proyecto de un Cuaderno de Radioafición con una interfaz gráfica qu
 
 ## Capturas de Pantalla
 
-¡Agrega algunas capturas de pantalla aquí para mostrar cómo se ve tu interfaz gráfica en acción!
+
 
 ## Contribuciones
 
